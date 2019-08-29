@@ -166,7 +166,7 @@ body {
 }
 
 .btn-white::after {
-    background-color: #fff;
+    background-color: rgb(116, 49, 49);
 }
 
 .btn:hover::after {
